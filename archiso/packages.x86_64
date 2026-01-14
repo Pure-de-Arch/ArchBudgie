@@ -167,6 +167,7 @@ plymouth
 wayland
 
 ### Display Manager
+lightdm
 
 ### On-ISO drivers
 nvidia-dkms
